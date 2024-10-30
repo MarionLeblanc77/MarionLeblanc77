@@ -1,4 +1,4 @@
-![Cover](https://github.com/MarionLeblanc77/MarionLeblanc77/img/cover.jpg)
+![Cover](https://github.com/MarionLeblanc77/MarionLeblanc77/blob/main/img/cover.jpg)
 
 
 ## Hi there 👋
