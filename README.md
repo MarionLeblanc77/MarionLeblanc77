@@ -2,7 +2,7 @@
 
 ## Hello ! I am Marion, a web developer from France 🥐 
 
-I recently change career after being a product manager in the organic cosmetic field for more than 7 years 💄 and got my certification in September 🎓
+I recently changed career after being a product manager in the organic cosmetic field for more than 7 years 💄 and got my certification of web developer (Titre Professionnel Développeur web et web mobile) in September 🎓
  <h5> 
    <code><a href="https://www.linkedin.com/in/marionleblanc/" title="LinkedIn Profile"><img width="22" src="img/linkedin_logo.png"> LinkedIn: marionleblanc</a></code>
    <br/><br/>
