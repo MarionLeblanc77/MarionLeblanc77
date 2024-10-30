@@ -9,12 +9,12 @@ I recently changed career after being a product manager in the organic cosmetic 
    <code><a href="mailto:marion.leblanc77@gmail.com/" title="Gmail addres"><img width="20" src="img/gmail_logo.png"> marion.leblanc77@gmail.com</a></code>
  </h5>
 
- I speak French, English and could reactive Spanish 💃🏻
+ I speak French, English and could reactivate Spanish 💃🏻
 
 ## What's going on
 
 🔭 I’m currently looking for an internship or a first job for January to start my new career !
-👩🏻‍💻 In the meantime, I am practicing and consolidating my skills by working on personnal project idea : 
+👩🏻‍💻 In the meantime, I am practicing and consolidating my skills by working on personnal project ideas : 
 
   <a href="https://amidonapp.dev-me.fr/" title="Amidon"><img width="20" src="img/amidon_logo_icon.png"><strong> Amidon :</strong></a>  My end-of-school project. A private, simple and convenient website to giveaway your stuff to friends. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 Objectives : get RGPD right / Fixing functionning and layout bugs / Adding placeholder to have a better understanding of the app when creating a new account / Optimizing image size and loading
