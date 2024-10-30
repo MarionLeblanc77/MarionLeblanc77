@@ -100,5 +100,3 @@ I recently change career after being a product manager in the organic cosmetic f
   </table>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarionLeblanc77&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
