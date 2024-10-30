@@ -19,7 +19,7 @@ I recently changed career after being a product manager in the organic cosmetic 
   <a href="https://amidonapp.dev-me.fr/" title="Amidon"><img width="20" src="img/amidon_logo_icon.png"><strong> Amidon :</strong></a>  My end-of-school project. A private, simple and convenient website to giveaway your stuff to friends. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 Objectives : get RGPD right / Fixing functionning and layout bugs / Adding placeholder to have a better understanding of the app when creating a new account / Optimizing image size and loading
 
-  <img width="20" src="img/2DoIt_logo.png"><strong> 2DoIt :</strong> A personnal project to help my partner and I daily life. A partially shared to-do list where you can have your own private tasks and shared ones. See repos : <a href="https://github.com/MarionLeblanc77/2DoIt_front" title="2DoIt Front"><strong> FRONT </strong></a> & <a href="https://github.com/MarionLeblanc77/2DoIt_back" title="2DoIt Back"><strong> BACK </strong></a><br/>
+  <img width="20" src="img/2DoIt_logo.png"><strong> 2DoIt :</strong> A personnal project to help my partner and I in our daily life. A partially shared to-do list where you can have your own private tasks and shared ones. See repos : <a href="https://github.com/MarionLeblanc77/2DoIt_front" title="2DoIt Front"><strong> FRONT </strong></a> & <a href="https://github.com/MarionLeblanc77/2DoIt_back" title="2DoIt Back"><strong> BACK </strong></a><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 Objectives : get a MVP up and working
 
 <div align="center">
