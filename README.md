@@ -23,7 +23,7 @@ I recently changed career after being a product manager in the organic cosmetic 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 Objectives : get a MVP up and working
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarionLeblanc77&theme=default&hide_border=true">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarionLeblanc77&hide_border=true">
 </div>
 
 ## What I use
