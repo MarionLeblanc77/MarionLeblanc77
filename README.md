@@ -22,11 +22,11 @@ I recently changed career after being a product manager in the organic cosmetic 
   <img width="20" src="img/2DoIt_logo.png"><strong> 2DoIt :</strong> A personnal project to help my partner and I in our daily life. A partially shared to-do list where you can have your own private tasks and shared ones. See repos : <a href="https://github.com/MarionLeblanc77/2DoIt_front" title="2DoIt Front"><strong> FRONT </strong></a> & <a href="https://github.com/MarionLeblanc77/2DoIt_back" title="2DoIt Back"><strong> BACK </strong></a><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 Objectives : get a MVP up and working
 
-<div align="center">
+<!-- <div align="center">
  <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MarionLeblanc77&hide_border=true" alt="GitHub Streak" />
  </a>
-</div>
+</div> -->
 
 ## What I use
  
