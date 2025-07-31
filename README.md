@@ -2,25 +2,43 @@
 
 ## Hello ! I am Marion, a web developer from France 🥐 
 
-I recently changed career after being a product manager in the organic cosmetic field for more than 7 years 💄 and got my certification of web developer (Titre Professionnel Développeur web et web mobile) in September 🎓
+I changed career after being a product manager in the organic cosmetic field for more than 7 years, wanting to give more meaning to my work while enjoying doing a job that uses logic more.
  <h5> 
    <code><a href="https://www.linkedin.com/in/marionleblanc/" title="LinkedIn Profile"><img width="22" src="img/linkedin_logo.png"> LinkedIn: marionleblanc</a></code>
    <br/><br/>
    <code><a href="mailto:marion.leblanc77@gmail.com/" title="Gmail addres"><img width="20" src="img/gmail_logo.png"> marion.leblanc77@gmail.com</a></code>
  </h5>
-
- I speak French, English and could reactivate Spanish 💃🏻
+Got my Titre Professionnel Développeur web et web mobile in September 🎓
+Worked at Rakuten for 6 months as a Front-end Intern ⌨️
+I speak French, English and could reactivate Spanish 💃🏻
 
 ## What's going on
 
-🔭 I’m currently looking for an internship or a first job for January to start my new career !
+🔭 I’m currently looking for a job  !
 👩🏻‍💻 In the meantime, I am practicing and consolidating my skills by working on personnal project ideas : 
 
-  <a href="https://amidonapp.dev-me.fr/" title="Amidon"><img width="20" src="img/amidon_logo_icon.png"><strong> Amidon :</strong></a>  My end-of-school project. A private, simple and convenient website to giveaway your stuff to friends. <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 Objectives : deploy my local back-end change for the first time ✅ / get RGPD right ✅ / Fixing functionning and layout bugs / Adding placeholder to have a better understanding of the app when creating a new account / Optimizing image size and loading
-
   <img width="20" src="img/2DoIt_logo.png"><strong> 2DoIt :</strong> A personnal project to help my partner and I in our daily life. A partially shared to-do list where you can have your own private tasks and shared ones. See repos : <a href="https://github.com/MarionLeblanc77/2DoIt_front" title="2DoIt Front"><strong> FRONT </strong></a> & <a href="https://github.com/MarionLeblanc77/2DoIt_back" title="2DoIt Back"><strong> BACK </strong></a><br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 Objectives : get a MVP up and working
+    <ul>🎯 Objectives: get a MVP up and working 
+     <ul><li>Basic interface 🚧</li>
+     <li>CRUD for entities in back ✅</li>
+     <li>Personnal tasks display and modification in front ✅</li> 
+     <li>Connectivity with other user 🚧</li>
+     <li>Basic personal settings</li></ul></ul><br/>
+
+  <strong> Meal planner :</strong> A personnal project with my husband to help us plan for the meal of the week, generate automatic grocery list and serve as a recipe book. 
+    <ul>🎯 Objectives: get a MVP up and working 
+     <ul><li>Get a hold on what my husband has started coded</li>
+     <li>Use the project to learn node.js and a back-end Javascript framework</li></ul></ul><br/>
+    
+  <a href="https://amidonapp.dev-me.fr/" title="Amidon"><img width="20" src="img/amidon_logo_icon.png"><strong> Amidon :</strong></a>  My end-of-school project. A private, simple and convenient website to giveaway your stuff to friends. <br/>
+    <ul>🎯 Objectives: optimizing
+     <ul><li>deploy my local back-end change for the first time ✅</li>
+     <li style="text-indent: 50px;">get RGPD right ✅</li>
+     <li>Fixing functionning and layout bugs</li>
+     <li>Adding placeholder to have a better understanding of the app when creating a new account</li>
+     <li>Optimizing image size and loading</li></ul></ul>
+
+
 
 <!-- <div align="center">
  <a href="https://git.io/streak-stats">
