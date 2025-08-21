@@ -23,7 +23,9 @@ I speak French, English and could reactivate Spanish 💃🏻
      <li>CRUD for entities in back ✅</li>
      <li>Personnal tasks display and modification in front ✅</li> 
      <li>Connectivity with other user 🚧</li>
-     <li>Basic personal settings</li></ul></ul><br/>
+     <li>Password recovery system</li>
+     <li>Basic personal settings</li>
+     <li>Drag & drop of tasks and lists</li></ul></ul><br/>
 
   <strong> Meal planner :</strong> A personnal project with my husband to help us plan for the meal of the week, generate automatic grocery list and serve as a recipe book. 
     <ul>🎯 Objectives: get a MVP up and working 
