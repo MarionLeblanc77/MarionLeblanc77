@@ -17,7 +17,7 @@ I speak French, English and could reactivate Spanish 💃🏻
 🔭 I’m currently looking for a job  !
 👩🏻‍💻 In the meantime, I am practicing and consolidating my skills by working on personnal project ideas : 
 
-  <img width="20" src="img/2DoIt_logo.png"><strong> 2DoIt :</strong><a href="https://nx0dwjbucbs.preview.infomaniak.website/" title="2DoIt website">(link)</a> A personnal project to help my partner and I in our daily life. A partially shared to-do list where you can have your own private tasks and shared ones. See repos : <a href="https://github.com/MarionLeblanc77/2DoIt_front" title="2DoIt Front"><strong> FRONT </strong></a> & <a href="https://github.com/MarionLeblanc77/2DoIt_back" title="2DoIt Back"><strong> BACK </strong></a><br/>
+  <img width="20" src="img/2DoIt_logo.png"><strong> 2DoIt </strong><a href="https://nx0dwjbucbs.preview.infomaniak.website/" title="2DoIt website">(link):</a> A personnal project to help my partner and I in our daily life. A partially shared to-do list where you can have your own private tasks and shared ones. See repos : <a href="https://github.com/MarionLeblanc77/2DoIt_front" title="2DoIt Front"><strong> FRONT </strong></a> & <a href="https://github.com/MarionLeblanc77/2DoIt_back" title="2DoIt Back"><strong> BACK </strong></a><br/>
     <ul>🎯 Objectives: get a MVP up and working 
      <ul><li>Basic interface 🚧</li>
      <li>CRUD for entities in back ✅</li>
