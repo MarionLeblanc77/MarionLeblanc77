@@ -1,21 +1,22 @@
 ![Cover](https://github.com/MarionLeblanc77/MarionLeblanc77/blob/main/img/landscape1.jpg)
 
-## Hello ! I am Marion, a web developer from France 🥐 
+## Hello ! I am Marion, a french web developer moving soon to the U.S.A 🥐→🍔 
 
-I changed career after being a product manager in the organic cosmetic field for more than 7 years, wanting to give more meaning to my work while enjoying doing a job that uses logic more.
+I changed career in 2025 after being a product manager in the organic cosmetic field for more than 7 years, wanting to give more meaning to my work while enjoying doing a job that uses logic more.
  <h5> 
    <code><a href="https://www.linkedin.com/in/marionleblanc/" title="LinkedIn Profile"><img width="22" src="img/linkedin_logo.png"> LinkedIn: marionleblanc</a></code>
    <br/><br/>
    <code><a href="mailto:marion.leblanc77@gmail.com/" title="Gmail addres"><img width="20" src="img/gmail_logo.png"> marion.leblanc77@gmail.com</a></code>
  </h5>
-Got my Titre Professionnel Développeur web et web mobile in September 🎓
+Got my Titre Professionnel Développeur web et web mobile in September 2025 🎓
 Worked at Rakuten for 6 months as a Front-end Intern ⌨️
+and at Knowllence, a risk management software company as a developer for almost a year before deciding to move to the U.S.A, where my husband is from.
 I speak French, English and could reactivate Spanish 💃🏻
 
 ## What's going on
 
-🔭 I’m currently looking for a job  !
-👩🏻‍💻 In the meantime, I am practicing and consolidating my skills by working on personnal project ideas : 
+🔭 I’m currently looking for a job in the U.S.A, ideally in the Washington D.C. area or remote, otherwise in Milwaukee !
+👩🏻‍💻 In the meantime, I am practicing and consolidating my skills by working on personal project ideas : 
 
   <img width="20" src="img/2DoIt_logo.png"><strong> 2DoIt </strong><a href="https://2doit.mlnc-dev.fr/" title="2DoIt website">(link):</a> A personnal project to help my partner and I in our daily life. A partially shared to-do list where you can have your own private tasks and shared ones. See repos : <a href="https://github.com/MarionLeblanc77/2DoIt_front" title="2DoIt Front"><strong> FRONT </strong></a> & <a href="https://github.com/MarionLeblanc77/2DoIt_back" title="2DoIt Back"><strong> BACK </strong></a><br/>
     <ul>🎯 Objectives: get a MVP up and working 
@@ -25,7 +26,7 @@ I speak French, English and could reactivate Spanish 💃🏻
      <li>Connectivity with other user ✅</li>
      <li>Drag & drop of tasks and lists ✅</li>
      <li>Stay connected ✅</li>
-     <li>Password recovery system 🚧</li>
+     <li>Password recovery system ✅</li>
      <li>Basic personal settings</li>
      <li>Correcting mobile UX</li>
      </ul></ul><br/>
@@ -35,13 +36,17 @@ I speak French, English and could reactivate Spanish 💃🏻
      <ul><li>Get a hold on what my husband has started coded</li>
      <li>Use the project to learn node.js and a back-end Javascript framework</li></ul></ul><br/>
     
-  <a href="https://amidonapp.dev-me.fr/" title="Amidon"><img width="20" src="img/amidon_logo_icon.png"><strong> Amidon :</strong></a>  My end-of-school project. A private, simple and convenient website to giveaway your stuff to friends. <br/>
-    <ul>🎯 Objectives: optimizing
+  <a href="https://amidonapp.dev-me.fr" title="Amidon"><img width="20" src="img/amidon_logo_icon.png"><strong> Amidon :</strong></a>  My end-of-school project. A private, simple and convenient website to giveaway your stuff to friends. <br/>
+    <ul>🎯 Objectives: optimizing & updating design
      <ul><li>deploy my local back-end change for the first time ✅</li>
      <li style="text-indent: 50px;">get RGPD right ✅</li>
-     <li>Fixing functionning and layout bugs</li>
+     <li>Stay connected ✅</li>
+     <li>Password recovery system ✅</li>
+     <li>Fixing diverse functioning and layout bugs</li>
      <li>Adding placeholder to have a better understanding of the app when creating a new account</li>
-     <li>Optimizing image size and loading</li></ul></ul>
+     <li>Optimizing image size and loading</li>
+     <li>Redo product image gallery</li>
+     <li>Get rid of the color mechanism</li></ul></ul>
 
 
 
@@ -127,6 +132,4 @@ I speak French, English and could reactivate Spanish 💃🏻
     </td>
   </tr>
   </table>
-
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarionLeblanc77&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
