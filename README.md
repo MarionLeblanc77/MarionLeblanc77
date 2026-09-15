@@ -28,7 +28,6 @@ I speak French, English and could reactivate Spanish 💃🏻
      <li>Stay connected ✅</li>
      <li>Password recovery system ✅</li>
      <li>Basic personal settings</li>
-     <li>Correcting mobile UX</li>
      </ul></ul><br/>
 
   <strong> Meal planner :</strong> A personnal project with my husband to help us plan for the meal of the week, generate automatic grocery list and serve as a recipe book. 
