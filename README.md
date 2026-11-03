@@ -1,6 +1,6 @@
 ![Cover](https://github.com/MarionLeblanc77/MarionLeblanc77/blob/main/img/landscape1.jpg)
 
-## Hello ! I am Marion, a french web developer moving soon to the U.S.A 🥐→🍔 
+## Hello ! I am Marion, a web developer just moved to the U.S.A 🥐→🍔 
 
 I changed career in 2025 after being a product manager in the organic cosmetic field for more than 7 years, wanting to give more meaning to my work while enjoying doing a job that uses logic more.
  <h5> 
