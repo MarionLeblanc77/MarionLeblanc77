@@ -18,7 +18,7 @@ I speak French, English and could reactivate Spanish 💃🏻
 🔭 I’m currently looking for a job in the U.S.A, ideally in the Washington D.C. area or remote, otherwise in Milwaukee !
 👩🏻‍💻 In the meantime, I am practicing and consolidating my skills by working on personal project ideas : 
 
-  <strong> Meal planner </strong><a href="[https://amidonapp.dev-me.fr](https://github.com/MarionLeblanc77/meal-planner)" title="Meal planner repo">(link):</a> A personnal project to help plan for the meal of the week, generate automatic grocery list and serve as a recipe book. 
+  <strong> Meal planner </strong><a href="https://github.com/MarionLeblanc77/meal-planner" title="Meal planner repo">(link):</a> A personnal project to help plan for the meal of the week, generate automatic grocery list and serve as a recipe book. 
     <ul>🎯 Objectives: get a MVP up and working / Learn node.js and nest.js
      <ul><li>Add recipe, with ingredients and categories ✅</li>
      <li>Search recipe depending on ingredients, categories and whether ingredients are all in season ✅</li>
