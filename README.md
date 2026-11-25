@@ -18,6 +18,11 @@ I speak French, English and could reactivate Spanish 💃🏻
 🔭 I’m currently looking for a job in the U.S.A, ideally in the Washington D.C. area or remote, otherwise in Milwaukee !
 👩🏻‍💻 In the meantime, I am practicing and consolidating my skills by working on personal project ideas : 
 
+  <strong> Meal planner :</strong> A personnal project with my husband to help us plan for the meal of the week, generate automatic grocery list and serve as a recipe book. 
+    <ul>🎯 Objectives: get a MVP up and working 
+     <ul><li>Get a hold on what my husband has started coded</li>
+     <li>Use the project to learn node.js and a back-end Javascript framework</li></ul></ul><br/>
+     
   <img width="20" src="img/2DoIt_logo.png"><strong> 2DoIt </strong><a href="https://2doit.mlnc-dev.fr/" title="2DoIt website">(link):</a> A personnal project to help my partner and I in our daily life. A partially shared to-do list where you can have your own private tasks and shared ones. See repos : <a href="https://github.com/MarionLeblanc77/2DoIt_front" title="2DoIt Front"><strong> FRONT </strong></a> & <a href="https://github.com/MarionLeblanc77/2DoIt_back" title="2DoIt Back"><strong> BACK </strong></a><br/>
     <ul>🎯 Objectives: get a MVP up and working 
      <ul><li>Basic interface ✅</li>
@@ -29,11 +34,6 @@ I speak French, English and could reactivate Spanish 💃🏻
      <li>Password recovery system ✅</li>
      <li>Basic personal settings</li>
      </ul></ul><br/>
-
-  <strong> Meal planner :</strong> A personnal project with my husband to help us plan for the meal of the week, generate automatic grocery list and serve as a recipe book. 
-    <ul>🎯 Objectives: get a MVP up and working 
-     <ul><li>Get a hold on what my husband has started coded</li>
-     <li>Use the project to learn node.js and a back-end Javascript framework</li></ul></ul><br/>
     
   <a href="https://amidonapp.dev-me.fr" title="Amidon"><img width="20" src="img/amidon_logo_icon.png"><strong> Amidon :</strong></a>  My end-of-school project. A private, simple and convenient website to giveaway your stuff to friends. <br/>
     <ul>🎯 Objectives: optimizing & updating design
